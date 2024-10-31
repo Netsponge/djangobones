@@ -11,7 +11,8 @@ Ensure that `py` command points to python3 with `py -V` (python 3 or above)
 In the terminal, launch
 
 ```shell
-py create_django_app.py
+py create_django_app.py or for mac user
+python 3 create_django_app.py
 ```
 
 ## Restart from scratch
