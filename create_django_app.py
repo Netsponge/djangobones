@@ -16,3 +16,4 @@ else:  # For Unix or macOS
     activation_cmd = ["source", "myapp/.venv/bin/activate"]
 
 subprocess.run(activation_cmd, shell=True)
+
