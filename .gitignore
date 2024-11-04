@@ -1,3 +1,8 @@
 
-myapp
-.DS_Store
+# Environnement virtuel
+.venv/
+__pycache__/
+*.py[cod]
+db.sqlite3
+/static/
+.env
