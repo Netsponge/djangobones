@@ -22,3 +22,4 @@ subprocess.run([pip_path, "install", "django", "djangorestframework", "django-en
 
 # Créer le projet Django
 subprocess.run([django_admin_path, "startproject", yourproject])
+
